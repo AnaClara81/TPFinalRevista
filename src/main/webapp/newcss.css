@@ -1,0 +1,100 @@
+
+.conteinerNav{
+    z-index: 2;
+    position: fixed;
+    background-color: aqua;
+     width: 100%;
+    /*margin:0;
+   
+    height: 75px;
+    
+    
+    */
+    
+    
+}
+.conteiner-title{
+
+width: 100%;
+height:80px;
+background-color:rebeccapurple;
+margin:20px;
+
+}
+p{
+font-size: 25px;
+}
+.conteinerCarousel{
+    width: auto; 
+    height:auto;
+}
+
+/*.carousel-item{
+    width:auto; 
+    height:1000px;
+}*/
+
+.pie{
+    background-color: aqua;
+    width: auto;
+    height: 100px;
+   
+}
+
+.titulo-cards{
+    background-color:orange ;
+    justify-content: center;
+    display: block;
+}
+.conteiner-form{
+
+    width: 800px;
+    background-color: aqua;
+    margin:25px auto;
+    padding:20px;
+    justify-content: center;
+}
+.col-12{
+    display: inline-flex;
+}
+
+.titulo{
+    size: 250px;
+    font-style: italic;
+   text-align: center;
+    color: crimson;
+    padding: 10px;
+}
+
+.separador{
+     width: 100%;
+    height: 75px;
+    
+}
+
+
+    
+    .carousel-inner {
+        width:auto; 
+       height:auto;
+}
+   .imagen{
+    background-color: aqua;
+    position:relative;
+    margin:0px;
+    width: auto;
+    display:flex;
+    justify-content: center;
+    padding: 10px;
+}
+.texto{
+    position: relative;
+    margin:20px 30px;
+    text-align: justify;
+}
+ 
+
+
+
+
+
